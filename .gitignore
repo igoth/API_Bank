@@ -1,0 +1,16 @@
+# Arquivos de ambiente
+.env
+*.env
+
+# Arquivos de banco de dados
+db/*.sqlite
+db/*.db
+
+# Arquivos temporários
+*.pyc
+__pycache__/
+*.log
+
+# Dependências
+venv/
+node_modules/
