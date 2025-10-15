@@ -6,6 +6,28 @@
 db/*.sqlite
 db/*.db
 
+# Arquivos temporários do Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Arquivos de build do Docker
+*.dockerignore# Arquivos de ambiente
+.env
+*.env
+
+# Arquivos de banco de dados
+db/*.sqlite
+db/*.db
+
 # Arquivos temporários
 *.pyc
 __pycache__/
